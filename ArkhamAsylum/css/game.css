@@ -64,6 +64,41 @@
     letter-spacing: -1px;
 }
 
+.slide a{
+    color:aqua;
+    text-decoration:none;
+}
+.slide a:hover{    
+    text-decoration:none;
+    z-index: 3;     
+    cursor:pointer;
+    color:aqua;
+    font-size:larger;
+}
+
+.slide a:visited{
+    color:aqua;
+    text-decoration:none;
+}
+
+.slide q {
+    display: block;
+    font-size: 50px;
+    line-height: 72px;
+
+    margin-top: 100px;
+}
+
+ .slide q strong {
+        white-space: nowrap;
+ }
+
+ div.menu {
+     border-top: 2px solid aqua;
+     padding-top: 25px;
+     text-align: center;
+ }
+
 
 
 
