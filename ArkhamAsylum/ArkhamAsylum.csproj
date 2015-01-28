@@ -65,6 +65,22 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\images\banevsbat.jpg" />
+    <Content Include="assets\images\batarang.jpg" />
+    <Content Include="assets\images\break.jpg" />
+    <Content Include="assets\images\deadend.jpg" />
+    <Content Include="assets\images\defeatscare.jpg" />
+    <Content Include="assets\images\door.jpeg" />
+    <Content Include="assets\images\emotional.jpg" />
+    <Content Include="assets\images\gun.jpg" />
+    <Content Include="assets\images\harleyquinn.jpg" />
+    <Content Include="assets\images\joker.jpg" />
+    <Content Include="assets\images\jokerescape.jpg" />
+    <Content Include="assets\images\main.jpg" />
+    <Content Include="assets\images\party.jpg" />
+    <Content Include="assets\images\scarecrow.jpg" />
+    <Content Include="assets\images\somkepellet.jpg" />
+    <Content Include="assets\images\stunnedbane.jpg" />
     <Content Include="css\game.css" />
     <Content Include="css\reset.css" />
     <Content Include="index.html" />
@@ -75,9 +91,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="assets\images\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
