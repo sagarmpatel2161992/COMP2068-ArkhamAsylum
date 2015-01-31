@@ -43,6 +43,7 @@
 
 .impress-enabled .step.active { opacity: 1 }
 
+/*----START SLIDE CLASS STYLING ------------*/
 .slide {
     display: block;
 
@@ -63,7 +64,8 @@
     line-height: 36px;
     letter-spacing: -1px;
 }
-
+/*----END SLIDE CLASS STYLING ------------*/
+/*----START ANCHOR TAG STYLES ------------*/
 .slide a{
     color:aqua;
     text-decoration:none;
@@ -81,6 +83,7 @@
     text-decoration:none;
 }
 
+/*----END ANCHOR TAG STYLES ------------*/
 .slide q {
     display: block;
     font-size: 50px;
@@ -93,6 +96,7 @@
         white-space: nowrap;
  }
 
+ /*----DIVISONS WITH MENU CLASS  STYLING------------*/
  div.menu {
      border-top: 2px solid aqua;
      padding-top: 25px;
